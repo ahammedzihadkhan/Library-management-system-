@@ -1,0 +1,5 @@
+out/
+*.db
+*.mp4
+*.log
+VIDEO_SCRIPT.md
